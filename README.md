@@ -2,7 +2,7 @@
 
 **En una frase:** un sol script que et deixa a punt per treballar al teu producte. Comprova i instal·la el que falta, instal·la Gentle Shell, inicia sessió a GitHub, clona el teu repositori i l'obre.
 
-> El comentari de l'alta de producte indica l'URL del repositori; el nom `ORGANITZACIO/nom` surt d'aquesta URL. (L'ordre del kit dins d'aquest comentari encara està pendent.)
+> El comentari de l'alta de producte indica l'URL del repositori; el nom `ORGANITZACIO/nom` surt d'aquesta URL. El comentari ja inclou l'ordre del kit llesta per enganxar, amb el nom del repositori.
 
 ## Com s'executa
 
